@@ -1,5 +1,4 @@
-# CpS 420 Project Repository
-## Team name
+# Team Name
 ### Project Manager: ???
 ### DevOps Engineer: ???
 ### Developer: ???
